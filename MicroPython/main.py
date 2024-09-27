@@ -1,11 +1,11 @@
 """
 Created by: Gavin Gallant
 Created on: Sep 2024
-This module turns an LED on a breadboard on and off.
+This program turns an LED on a breadboard on and off.
+
 """
 
 from microbit import *
-
 
 
 display.clear()
